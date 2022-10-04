@@ -4,7 +4,7 @@ export default function HeroHeader({ resumeTrueFalse }) {
     useEffect(() => {
         const Typed = require("typed.js");
         new Typed(".is-visible", {
-            strings: ["Designer", "Developer", "Freelancer"],
+            strings: ["Engineer", "Developer", "Freelancer"],
             // Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
             stringsElement: null,
             // typing speed
@@ -35,8 +35,8 @@ export default function HeroHeader({ resumeTrueFalse }) {
                     <div className="content">
                         <div className="left_hero_header">
                             <div className="circle">
-                                <div className="bg_img" style={{ "backgroundImage": "url(img/header/1.jpg)" }}></div>
-                                <img src="img/thumb/square.jpg" alt="" />
+                                <div className="bg_img" style={{ "backgroundImage": "url(img/header/marcancajas.jpg)" }}></div>
+                                <img src="img/thumb/square.jpg" />
                                 <div className="circle_holder_blue"><span></span></div>
                                 <div className="circle_holder_orange"><span></span></div>
                                 <div className="lines">

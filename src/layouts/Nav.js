@@ -18,10 +18,7 @@ export default function Nav({toggleTrueFalse}) {
 				<div className="container">
 					<div className="nav_wrapper">
 						<div className="left_nav">
-							<Link href="/"><a>
-								<img src="img/logo/logo.png" alt="logo" />
-							</a>
-							</Link>
+							<h1 className="feature_name">marc ancajas_</h1>
 						</div>
 						<div className="right_bar_animation">
 							<a onClick={toggleTrueFalse}>

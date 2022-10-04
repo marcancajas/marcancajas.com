@@ -30,7 +30,7 @@ const Layout = ({ children }) => {
   return (
     <>
       <Head>
-        <title>Deebo | Personal Portfolio React NextJS Template</title>
+        <title>Marc Ancajas | Personal Portfolio and Services Website</title>
       </Head>
         <div className="deebo_fn_main">
           <Overlay />
