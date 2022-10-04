@@ -5,8 +5,13 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
+<<<<<<< HEAD
     "static/d1TNfs9cah7TIhiLzFQu-/_buildManifest.js",
     "static/d1TNfs9cah7TIhiLzFQu-/_ssgManifest.js"
+=======
+    "static/pFEdJuzx0nUPTvZVDSmGA/_buildManifest.js",
+    "static/pFEdJuzx0nUPTvZVDSmGA/_ssgManifest.js"
+>>>>>>> d7294f9874825a7961e687faea12f85264fa59ee
   ],
   "rootMainFiles": [],
   "pages": {
