@@ -30,7 +30,7 @@ const Layout = ({ children }) => {
   return (
     <>
       <Head>
-        <title>Marc Ancajas | Personal Portfolio and Services Website</title>
+        <title>Marc Ancajas | Portfolio and Services</title>
       </Head>
         <div className="deebo_fn_main">
           <Overlay />

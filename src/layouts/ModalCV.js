@@ -23,13 +23,14 @@ export default function ModalCV({ resumeTrueFalse }) {
                     <div className="cv__header">
                         <div className="in">
                             <div className="avatar">
-                                <img src="img/header/1.jpg" alt="" />
+                                <img src="img/header/marcancajas.jpg" alt="" />
                             </div>
-                            <h3><span>Adam</span> Milner</h3>
+                            <h3><span>Marc</span> Ancajas</h3>
                             <p>I’m available for a freelance job. Hire me</p>
+
                             <ul className="social">
                                 <li>
-                                    <a href="#" target="_blank" title="twitter.com">
+                                    <a href="https://twitter.com/marcancajas_" target="_blank" title="twitter.com">
                                         <SVG_Twitter />
                                     </a>
                                 </li>
@@ -41,16 +42,6 @@ export default function ModalCV({ resumeTrueFalse }) {
                                 <li>
                                     <a href="#" target="_blank" title="instagram.com">
                                         <SVG_Instagram />
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" target="_blank" title="printerest.com">
-                                        <SVG_Pinterest />
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" target="_blank" title="youtube.com">
-                                        <SVG_Youtube />
                                     </a>
                                 </li>
                             </ul>
@@ -67,19 +58,19 @@ export default function ModalCV({ resumeTrueFalse }) {
                             <div className="section_title">
                                 <h3>Biography</h3>
                             </div>
-                            <p>I'm a Freelancer Front-end Developer with over 12 years of experience. I'm from San Francisco. I code and create web elements for amazing people around the world. I like work with new people. New people are new experiences.</p>
+                            <p>A passionate and highly technical engineering professional in the field of software development, general engineering and enterprise architecture. I love building things, analysis and solutions. <a href="https://www.linkedin.com/in/marc-ancajas/" target="_blank"> Visit Linkedin Profile</a></p>
                             <div className="fn_cs_info_items">
                                 <ul>
-                                    <li><p>Name: <span>Adam Milner</span></p></li>
-                                    <li><p>Birthday: <span>June 14, 1992</span></p></li>
-                                    <li><p>Languages: <span>English, Italian, Arabic</span></p></li>
-                                    <li><p>Age: <span>29 Years</span></p></li>
-                                    <li><p>Nationality: <span>American</span></p></li>
-                                    <li><p>Adress: <span>London, UK</span></p></li>
+                                    <li><p>Name: <span>Marc Ancajas</span></p></li>
+                                    <li><p>Birthday: <span>June 24, 1990</span></p></li>
+                                    <li><p>Languages: <span>English, Filipino</span></p></li>
+                                    <li><p>Age: <span>32 Years</span></p></li>
+                                    <li><p>Nationality: <span>Australian</span></p></li>
+                                    <li><p>Adress: <span>Perth, WA</span></p></li>
                                     <li><p>Telegram: <span>Available</span></p></li>
-                                    <li><p>Phone: <span><a href="tel:+8801674052925">(+880) 1674 052 925</a></span></p></li>
-                                    <li><p>Skype: <span>Adam.M</span></p></li>
-                                    <li><p>Email: <span><a href="mailto:farhad1009@gmail.com">farhad1009@gmail.com</a></span></p></li>
+                                    <li><p>Phone: <span><a href="tel:0426240161">(06) 426240161</a></span></p></li>
+                                    <li><p>Skype: <span>Marc A.</span></p></li>
+                                    <li><p>Email: <span><a href="mailto:mancajas@outlook.com">mancajas@outlook.com</a></span></p></li>
                                 </ul>
                             </div>
                         </section>
@@ -96,31 +87,33 @@ export default function ModalCV({ resumeTrueFalse }) {
                                     <li>
                                         <div className="item">
                                             <div className="item_top">
-                                                <h5>Frenify University</h5>
-                                                <span>( 2014 — 2017 )</span>
+                                                <h5>Curtin University</h5>
+                                                <span>( Graduated 2019 )</span>
                                             </div>
-                                            <h3>Computer Science</h3>
-                                            <p>Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                            <h3>BSc Software Engineering</h3>
+                                            <p>Grade: With Distinction</p>
+                                            <p>Activities and Societies: Computer Science Students Association, Student Representative</p>
+                                            <p>Areas: Software Development, Project Management, Business Analyst, Technology Integration</p>
                                         </div>
                                     </li>
                                     <li>
                                         <div className="item">
                                             <div className="item_top">
-                                                <h5>Edu University</h5>
-                                                <span>( 2011 — 2014 )</span>
+                                                <h5>Curtin College</h5>
+                                                <span>( Graduated 2010 )</span>
                                             </div>
-                                            <h3>Master Degree</h3>
-                                            <p>Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                            <h3>Diploma of Information Technology</h3>
+                                            <p>Fundamentals of computing, binary operations and general computing knowledge.</p>
                                         </div>
                                     </li>
                                     <li>
                                         <div className="item">
                                             <div className="item_top">
-                                                <h5>Clolumbia College</h5>
-                                                <span>( 2007 — 2011 )</span>
+                                                <h5>University of Western Australia</h5>
+                                                <span>( Ended 2021 )</span>
                                             </div>
-                                            <h3>Bachelor Degree</h3>
-                                            <p>Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                            <h3>Master of Professional Engineering</h3>
+                                            <p>Masters degree in engineering topics include advanced mathematics, engineering physics, control systems, digital embedded systems and electrical/electronics operations.</p>
                                         </div>
                                     </li>
                                 </ul>

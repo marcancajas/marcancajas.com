@@ -23,11 +23,7 @@ export default function RightBar({toggleTrueFalse}) {
                     <div className="deebo_email">
                         <div className="email">
                             <p>Email</p>
-                            <a href="mailto:trendycoder.com@gmail.com">trendycoder.com@gmail.com</a>
-                        </div>
-                        <div className="copyright">
-                            <p>Copyright</p>
-                            <a href="https://trendycoder.com/" target="_blank">Developed by TrendyCoder</a>
+                            <a href="mailto:mancajas@outlook.com">mancajas@outlook.com</a>
                         </div>
                     </div>
                 </div>
