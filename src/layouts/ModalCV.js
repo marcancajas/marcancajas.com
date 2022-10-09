@@ -66,10 +66,10 @@ export default function ModalCV({ resumeTrueFalse }) {
                                     <li><p>Languages: <span>English, Filipino</span></p></li>
                                     <li><p>Age: <span>32 Years</span></p></li>
                                     <li><p>Nationality: <span>Australian</span></p></li>
-                                    <li><p>Adress: <span>Perth, WA</span></p></li>
+                                    <li><p>Address: <span>Perth, WA</span></p></li>
                                     <li><p>Telegram: <span>Available</span></p></li>
                                     <li><p>Phone: <span><a href="tel:0426240161">(06) 426240161</a></span></p></li>
-                                    <li><p>Skype: <span>Marc A.</span></p></li>
+                                    <li><p>Teams: <span>Marc Ancajas</span></p></li>
                                     <li><p>Email: <span><a href="mailto:mancajas@outlook.com">mancajas@outlook.com</a></span></p></li>
                                 </ul>
                             </div>
@@ -132,31 +132,40 @@ export default function ModalCV({ resumeTrueFalse }) {
                                     <li>
                                         <div className="item">
                                             <div className="item_top">
-                                                <h5>Frenify  LLC</h5>
-                                                <span>( 2018 — Today )</span>
+                                                <h5>Best Performance</h5>
+                                                <span>( Nov 2021 — July 2022 )</span>
                                             </div>
-                                            <h3>Sr. Front-end Engineer</h3>
-                                            <p>Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                            <h3>Programmer</h3>
+                                            <p>NodeJS, Typescript and ReactJS development with AWS NoSQL dynamodb, appsync, cognito, s3 and amplify.</p><br></br>
+                                            <p>Programming in Javascript/Typescript using different AWS SDK libraries such as appsync, cognito and dynamodb to upload, parse and manage data for Ed Companion and Elastik.</p>
                                         </div>
                                     </li>
                                     <li>
                                         <div className="item">
                                             <div className="item_top">
-                                                <h5>Google  LLC</h5>
-                                                <span>( 2016 — 2018 )</span>
+                                                <h5>AMI Group</h5>
+                                                <span>( November 2015 — July 2017 )</span>
                                             </div>
-                                            <h3>Front-end Developer</h3>
-                                            <p>Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                            <h3>Full-Stack Web Developer</h3>
+                                            <p>Manage, maintain, update and build websites using Javascript, HTML, CSS. Built rest service on LAMP/ISS servers across AMI Group of Companies.</p><br></br>
+                                            <p>Leading and advising the company on web technologies and e-commerce business processes as the lead developer working alongside another developer, sales manager and the marketing coordinator amongst other people in the company.</p><br></br>
+                                            <p>This requires strong computer programming skills as it deals with different kinds of scenarios to implement and improve the company's capabilities and presentation in the web using different techniques to sort, optimize, analyze, improve and deliver business data to stakeholders from different sources.</p><br></br>
+                                            <p>Search engine optimisation, conversion tracking and analytics/tags tracking Implementation across all digital properties of the company. Analysis, report generation, data filtering of business data across multiple websites and servers. </p><br></br>
+                                            <p>Analyze, proposed and built the companies' rest services and service-oriented architecture. </p><br></br>
+                                            <p>Working with a wide spectrum of web technology and languages such as php, sql, html, css and javascript. From conception of solutions to design and delivery working closely with the Marketing Coordinator to promote and rebrand our suppliers and the whole of AMI Group.</p>
                                         </div>
                                     </li>
                                     <li>
                                         <div className="item">
                                             <div className="item_top">
-                                                <h5>Twitter  LLC</h5>
-                                                <span>( 2016 — 2011 )</span>
+                                                <h5>303 Lowe</h5>
+                                                <span>( July 2015 — Oct 2015 )</span>
                                             </div>
-                                            <h3>Graphic Designer</h3>
-                                            <p>Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                            <h3>Frontend Web Developer</h3>
+                                            <p>Working closely with art directors in a creative environment, I develop and maintain responsive websites and animated banner ads.</p><br></br>
+                                            <p>I also managed the companies' aws hosting account, reviewing external source code from suppliers and giving technical feedback.</p><br></br>
+                                            <p>Develop the road safety commission's drink and drive game using javascript/nodejs/html/css and CVCheck's responsive website.</p><br></br>
+                                            <p>Front-end Website Development Javascript, HTML, CSS</p>
                                         </div>
                                     </li>
                                 </ul>
@@ -173,7 +182,7 @@ export default function ModalCV({ resumeTrueFalse }) {
                             <div className="fn_cs_progress_bar">
                                 <div className="progress_item open" data-value={92}>
                                     <div className="item_in">
-                                        <h3 className="progress_title">Adobe Photoshop</h3>
+                                        <h3 className="progress_title">Javascript / Typescript, Html, CSS</h3>
                                         <span
                                             className="progress_percent"
                                             style={{ right: "8%" }}
@@ -187,7 +196,7 @@ export default function ModalCV({ resumeTrueFalse }) {
                                 </div>
                                 <div className="progress_item open" data-value={95}>
                                     <div className="item_in">
-                                        <h3 className="progress_title">HTML5 &amp; CSS3</h3>
+                                        <h3 className="progress_title">AWS, NodeJS, ReactJS</h3>
                                         <span
                                             className="progress_percent"
                                             style={{ right: "5%" }}
@@ -201,29 +210,29 @@ export default function ModalCV({ resumeTrueFalse }) {
                                 </div>
                                 <div className="progress_item open" data-value={80}>
                                     <div className="item_in">
-                                        <h3 className="progress_title">WordPress</h3>
+                                        <h3 className="progress_title">RDS Relational and NoSQL Databases</h3>
                                         <span
                                             className="progress_percent"
-                                            style={{ right: "20%" }}
+                                            style={{ right: "13%" }}
                                         >
-                                            80%
+                                            87%
                                         </span>
                                         <div className="bg_wrap">
-                                            <div className="progress_bg" style={{ width: "80%" }} />
+                                            <div className="progress_bg" style={{ width: "87%" }} />
                                         </div>
                                     </div>
                                 </div>
                                 <div className="progress_item open" data-value={85}>
                                     <div className="item_in">
-                                        <h3 className="progress_title">Adobe Illustrator</h3>
+                                        <h3 className="progress_title">Versioning Control (GIT), Wireframing, UML, BPMN Process </h3>
                                         <span
                                             className="progress_percent"
-                                            style={{ right: "15%" }}
+                                            style={{ right: "10%" }}
                                         >
-                                            85%
+                                            90%
                                         </span>
                                         <div className="bg_wrap">
-                                            <div className="progress_bg" style={{ width: "85%" }} />
+                                            <div className="progress_bg" style={{ width: "90%" }} />
                                         </div>
                                     </div>
                                 </div>
@@ -249,7 +258,7 @@ export default function ModalCV({ resumeTrueFalse }) {
                                             </div>
                                             <div className="item_right">
                                                 <p>Starts from</p>
-                                                <h3>$500</h3>
+                                                <h3>$450</h3>
                                             </div>
                                         </div>
                                     </li>
@@ -257,11 +266,11 @@ export default function ModalCV({ resumeTrueFalse }) {
                                         <div className="item">
                                             <div className="item_left">
                                                 <h3>Mobile applications</h3>
-                                                <p>Custom marketing solutions. Get your business on the next level. We provide worldwide marketing.</p>
+                                                <p>Custom marketing solutions. Get your business on the next level. I provide worldwide accessible mobile app platforms.</p>
                                             </div>
                                             <div className="item_right">
                                                 <p>Starts from</p>
-                                                <h3>$450</h3>
+                                                <h3>$400</h3>
                                             </div>
                                         </div>
                                     </li>
@@ -269,11 +278,11 @@ export default function ModalCV({ resumeTrueFalse }) {
                                         <div className="item">
                                             <div className="item_left">
                                                 <h3>Strategy &amp; branding</h3>
-                                                <p>Design direction for business. Get your business on the next level. We help to create great experiences.</p>
+                                                <p>IT systems (AWS Architecture) and business strategy direction. Get your business on the next level. I help to create great experiences and scalable enterprise architecture.</p>
                                             </div>
                                             <div className="item_right">
                                                 <p>Starts from</p>
-                                                <h3>$500</h3>
+                                                <h3>$350</h3>
                                             </div>
                                         </div>
                                     </li>
@@ -281,11 +290,11 @@ export default function ModalCV({ resumeTrueFalse }) {
                                         <div className="item">
                                             <div className="item_left">
                                                 <h3>Design conspect</h3>
-                                                <p>Design direction for business. Get your business on the next level. We help to create great experiences.</p>
+                                                <p>Design direction for business. Get your business on the next level. I help to realize vision and create great experiences.</p>
                                             </div>
                                             <div className="item_right">
                                                 <p>Starts from</p>
-                                                <h3>$450</h3>
+                                                <h3>$300</h3>
                                             </div>
                                         </div>
                                     </li>
