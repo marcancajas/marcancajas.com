@@ -35,12 +35,12 @@ export default function ModalCV({ resumeTrueFalse }) {
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" target="_blank" title="facebook.com">
+                                    <a href="https://www.facebook.com/mancajas/?viewas=100000686899395&show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_transition=0&show_community_review_changes=0&show_follower_visibility_disclosure=0" target="_blank" title="facebook.com">
                                         <SVG_Facebook />
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" target="_blank" title="instagram.com">
+                                    <a href="https://www.instagram.com/marcancajas/" target="_blank" title="instagram.com">
                                         <SVG_Instagram />
                                     </a>
                                 </li>
@@ -278,7 +278,7 @@ export default function ModalCV({ resumeTrueFalse }) {
                                         <div className="item">
                                             <div className="item_left">
                                                 <h3>Strategy &amp; branding</h3>
-                                                <p>IT systems (AWS Architecture) and business strategy direction. Get your business on the next level. I help to create great experiences and scalable enterprise architecture.</p>
+                                                <p>Cloud computing (AWS Architecture) and business strategy direction. Get your business on the next level. I help to create great experiences and scalable enterprise architecture.</p>
                                             </div>
                                             <div className="item_right">
                                                 <p>Starts from</p>
@@ -306,23 +306,21 @@ export default function ModalCV({ resumeTrueFalse }) {
                         {/* CV: Testimonials  */}
                         <section id="cv_testimonials">
                             <div className="section_title">
-                                <h3>References</h3>
+                                <h3>Recommendations</h3>
                             </div>
-                            <p>A testimonial is effectively a review or recommendation from a client, letting other people know how your products or services benefitted them. We respect each client and help everyone with all our might.</p>
-
                             <div className="fn_cs_testimonials">
                                 <ul>
                                     <li>
                                         <div className="item">
                                             <div className="item_left">
-                                                <p>One of the best. It works quite well for software development also. The design and ease of installation and customizing is exceptional. Many plaudits to the developers!</p>
+                                                <p>I've worked with Marc on several projects. He is a great specialist with a wide understanding of software development and the project management skills. I enjoyed to work with him.</p>
                                             </div>
                                             <div className="item_right">
                                                 <div className="t_ava">
-                                                    <div className="ava_in" data-bg-img="img/testimonials/1.jpg"></div>
+                                                    <div className="ava_in" data-bg-img="img/testimonials/Alexander.jpg"></div>
                                                 </div>
                                                 <div className="t_name">
-                                                    <p>OldPhot</p>
+                                                    <p>Alexander Sysuiev</p>
                                                 </div>
                                                 <div className="t_rating" data-stars="5">
                                                     <div className="rating_in">
@@ -336,56 +334,14 @@ export default function ModalCV({ resumeTrueFalse }) {
                                     <li>
                                         <div className="item">
                                             <div className="item_left">
-                                                <p>Very good design and code quality. The costumer support is excellent. They respond within minutes and solve problems on the fly. I sincerely recommend!</p>
+                                                <p>I've been working with Marc on two projects. This was a real pleasure for me to deal with a true professional. Marc is highly respected by me personally and by my development team colleagues and skillfully managed the plethora of personalities involved with the projects we worked on together. His enthusiastic, optimistic attitude is contagious and serves to motivate and energize project staff. Marc has superb problem-solving skills as well as exceptional product development skills.</p>
                                             </div>
                                             <div className="item_right">
                                                 <div className="t_ava">
-                                                    <div className="ava_in" data-bg-img="img/testimonials/2.jpg"></div>
+                                                    <div className="ava_in" data-bg-img="img/testimonials/Viktoria.jpg"></div>
                                                 </div>
                                                 <div className="t_name">
-                                                    <p>Wuoh</p>
-                                                </div>
-                                                <div className="t_rating" data-stars="5">
-                                                    <div className="rating_in">
-                                                        <div className="rating_active"><SVG_Five_Stars /></div>
-                                                        <div className="rating_regular"><SVG_Five_Stars /></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div className="item">
-                                            <div className="item_left">
-                                                <p>I Like the whole Theme, the design, customizability, features, etc. The support has been absolutely fantastic and friendly, helping me to solve any issue I was having.</p>
-                                            </div>
-                                            <div className="item_right">
-                                                <div className="t_ava">
-                                                    <div className="ava_in" data-bg-img="img/testimonials/3.jpg"></div>
-                                                </div>
-                                                <div className="t_name">
-                                                    <p>Bartolo</p>
-                                                </div>
-                                                <div className="t_rating" data-stars="5">
-                                                    <div className="rating_in">
-                                                        <div className="rating_active"><SVG_Five_Stars /></div>
-                                                        <div className="rating_regular"><SVG_Five_Stars /></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div className="item">
-                                            <div className="item_left">
-                                                <p>The best theme in the world ; Really love it. Support is amazing, and they always help me with my problems. To be honest - I have earlier other theme, but this is so good, that why I choose it</p>
-                                            </div>
-                                            <div className="item_right">
-                                                <div className="t_ava">
-                                                    <div className="ava_in" data-bg-img="img/testimonials/4.jpg"></div>
-                                                </div>
-                                                <div className="t_name">
-                                                    <p>Przemeknorek</p>
+                                                    <p>Viktoria Kuznetsova</p>
                                                 </div>
                                                 <div className="t_rating" data-stars="5">
                                                     <div className="rating_in">
