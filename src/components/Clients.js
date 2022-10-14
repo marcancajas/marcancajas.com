@@ -10,42 +10,42 @@ export default function Clients() {
                         <ul>
                             <li>
                                 <a href="#">
-                                    <img src="img/clients/1.png" alt="colorlib" />
+                                    <img src="img/clients/aws.png" alt="aws" />
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    <img src="img/clients/2.png" alt="envato" />
+                                    <img src="img/clients/nodejs.png" alt="nodejs" />
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    <img src="img/clients/3.png" alt="pingdom" />
+                                    <img src="img/clients/reactjs.png" alt="reactjs" />
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    <img src="img/clients/4.png" alt="magento" />
+                                    <img src="img/clients/windows.png" alt="windows" />
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    <img src="img/clients/5.png" alt="woocommerce" />
+                                    <img src="img/clients/tsjs.png" alt="javascript and typescript" />
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    <img src="img/clients/6.png" alt="larevel" />
+                                    <img src="img/clients/htmlcss.png" alt="html and css" />
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    <img src="img/clients/7.png" alt="angular" />
+                                    <img src="img/clients/github.png" alt="github" />
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    <img src="img/clients/8.png" alt="google" />
+                                    <img src="img/clients/ubuntu.png" alt="ubuntu" />
                                 </a>
                             </li>
                         </ul>
