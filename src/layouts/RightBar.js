@@ -16,7 +16,6 @@ export default function RightBar({toggleTrueFalse}) {
                             <li><a onClick={toggleTrueFalse} href="#about">About</a></li>
                             <li><a onClick={toggleTrueFalse} href="#scills">Portfolio</a></li>
                             <li><a onClick={toggleTrueFalse} href="#services">Services</a></li>
-                            <li><a onClick={toggleTrueFalse} href="#tips">News &amp; Tips</a></li>
                             <li><a onClick={toggleTrueFalse} href="#contact">Contact</a></li>
                         </ul>
                     </div>
