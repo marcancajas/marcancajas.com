@@ -17,14 +17,14 @@ export default function Services() {
                                         <div className="direct_wrapper">
                                             <div className="service_direct_left_bar">
                                                 <div className="img_wrapper">
-                                                    <div className="abs_img" style={{"backgroundImage":"url(img/service/service1.jpg)"}}></div>
+                                                    <div className="abs_img" style={{"backgroundImage":"url(img/service/websites.jfif)"}}></div>
                                                     <img src="img/thumb/550-300.jpg" alt="" />
                                                 </div>
                                             </div>
                                             <div className="service_direct_right_bar">
                                                 <h2>Websites &amp; platforms</h2>
                                                 <p className="start_from">Starts from</p>
-                                                <p className="price">$500</p>
+                                                <p className="price">$450</p>
                                             </div>
                                         </div>
                                     </li>
@@ -32,14 +32,14 @@ export default function Services() {
                                         <div className="direct_wrapper">
                                             <div className="service_direct_left_bar">
                                                 <div className="img_wrapper">
-                                                    <div className="abs_img" style={{"backgroundImage":"url(img/service/service2.jpg)"}}></div>
+                                                    <div className="abs_img" style={{"backgroundImage":"url(img/service/mobile.jpg)"}}></div>
                                                     <img src="img/thumb/550-300.jpg" alt="" />
                                                 </div>
                                             </div>
                                             <div className="service_direct_right_bar">
                                                 <h2>Mobile applications</h2>
                                                 <p className="start_from">Starts from</p>
-                                                <p className="price">$450</p>
+                                                <p className="price">$400</p>
                                             </div>
                                         </div>
                                     </li>
@@ -47,14 +47,14 @@ export default function Services() {
                                         <div className="direct_wrapper">
                                             <div className="service_direct_left_bar">
                                                 <div className="img_wrapper">
-                                                    <div className="abs_img" style={{"backgroundImage":"url(img/service/service3.jpg)"}}></div>
+                                                    <div className="abs_img" style={{"backgroundImage":"url(img/service/strategy.jpg)"}}></div>
                                                     <img src="img/thumb/550-300.jpg" alt="" />
                                                 </div>
                                             </div>
                                             <div className="service_direct_right_bar">
                                                 <h2>Strategy &amp; branding</h2>
                                                 <p className="start_from">Starts from</p>
-                                                <p className="price">$500</p>
+                                                <p className="price">$350</p>
                                             </div>
                                         </div>
                                     </li>
@@ -62,14 +62,14 @@ export default function Services() {
                                         <div className="direct_wrapper">
                                             <div className="service_direct_left_bar">
                                                 <div className="img_wrapper">
-                                                    <div className="abs_img" style={{"backgroundImage":"url(img/service/service4.jpg)"}}></div>
+                                                    <div className="abs_img" style={{"backgroundImage":"url(img/service/design.jpg)"}}></div>
                                                     <img src="img/thumb/550-300.jpg" alt="" />
                                                 </div>
                                             </div>
                                             <div className="service_direct_right_bar">
                                                 <h2>Design conspect</h2>
                                                 <p className="start_from">Starts from</p>
-                                                <p className="price">$450</p>
+                                                <p className="price">$300</p>
                                             </div>
                                         </div>
                                     </li>
