@@ -13,6 +13,16 @@ export default function Contact() {
 		e.preventDefault();
 		if (email && name && phone && msg) {
 			setSuccess(true);
+
+			// Send email
+			Email.send({
+				SecureToken : "b7937f30-4935-4e5d-b66a-29c387a67452",
+				To : 'mancajas@outlook.com',
+				From : 'mancajas@outlook.com',
+				Subject : "Enquiry from marcancajas.com",
+				Body : email + "\n" + name + "\n" + phone + "\n" + msg
+			});
+
 			setTimeout(() => {
 				setForm({ email: "", name: "", phone: "", msg: "" });
 				setSuccess(false);

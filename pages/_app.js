@@ -21,6 +21,7 @@ function MyApp({ Component, pageProps }) {
         <link rel="icon" href="img/favicon.png" />
         <meta name="description" content="personal portfolio react template" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></meta>
+        <script src="https://smtpjs.com/v3/smtp.js"></script>
       </Head>
       <Component {...pageProps} />
     </>
