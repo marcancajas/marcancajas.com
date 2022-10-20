@@ -317,7 +317,7 @@ export default function ModalCV({ resumeTrueFalse }) {
                                             </div>
                                             <div className="item_right">
                                                 <div className="t_ava">
-                                                    <div className="ava_in" data-bg-img="img/testimonials/Alexander.jpg"></div>
+                                                    <div className="ava_in" data-bg-img="img/testimonials/alexander.jpg"></div>
                                                 </div>
                                                 <div className="t_name">
                                                     <p>Alexander Sysuiev</p>
@@ -338,7 +338,7 @@ export default function ModalCV({ resumeTrueFalse }) {
                                             </div>
                                             <div className="item_right">
                                                 <div className="t_ava">
-                                                    <div className="ava_in" data-bg-img="img/testimonials/Viktoria.jpg"></div>
+                                                    <div className="ava_in" data-bg-img="img/testimonials/viktoria.jpg"></div>
                                                 </div>
                                                 <div className="t_name">
                                                     <p>Viktoria Kuznetsova</p>
